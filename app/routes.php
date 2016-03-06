@@ -13,5 +13,12 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
+	return View::make('index');
 });
+
+//Route::get('/rutas','MapatonController@index');
+Route::group(array("prefix"=>'rutas'), function(){
+	Route::get('/ver','MapatonController@index');
+	Route::post('/ver','MapatonController@busqueda');
+});
+?>

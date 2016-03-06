@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "CETRAM Pantitlán", "TEL": null, "URL":null, "ADRESS1": "ENTRE LAS AVENIDAS MANUEL LEBRIJA, RÍO CHURUBUSCO Y GUSTAVO DÍAZ ORDAZ, COLONIA AMPLIACIÓN ADOLFO LOPEZ MATEOS, DELEGACIÓN VENUSTIANO CARRANZ", "ADDRESS2": null, "CITY": "CDMX", "HORARY": null }, "geometry": { "type": "Point", "coordinates": [ 19.4157849,-99.0767465 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "CETRAM Zapata", "TEL": null, "URL": null, "ADRESS1": "EJE SUR 7 Y AVENIDA UNIVERSIDAD, COLONIA SANTA CRUZ ATOYAC, DELEGACIÓN BENITO JUÁREZEJE SUR 7 Y AVENIDA UNIVERSIDAD, COLONIA SANTA CRUZ ATOYAC, DELEGACIÓN BENITO JUÁREZ", "ADDRESS2": null, "CITY": "CDMX", "HORARY": null }, "geometry": { "type": "Point", "coordinates": [ 19.3708718,-99.1663133 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "CETRAM Rosario", "TEL": "", "URL": null, "ADRESS1": "ENTRE AVENIDA DEL ROSARIO Y AVENIDA DE LAS CULTURAS EJE 5 NORTE, COLONIA EL ROSARIO, DELEGACIÓN AZCAPOTZALCO", "ADDRESS2": null, "CITY": "CDMX", "HORARY": null }, "geometry": { "type": "Point", "coordinates": [ 19.5027476,-99.2054701 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "CETRAM Chapultepec", "TEL": "", "URL": null, "ADRESS1": "AVENIDA CHAPULTEPEC ENTRE LAS CALLES JOSÉ VASCONCELOS, LIEJA, SONORA Y VERACRUZ, ENTRE LAS COLONIAS ROMA NORTE Y CONDESA, DELEGACIÓN CUAUHTÉMOC", "ADDRESS2": null, "CITY": "CDMX", "HORARY": null }, "geometry": { "type": "Point", "coordinates": [ 19.4201086,-99.179138 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "CETRAM Observatorio", "TEL": "", "URL": null, "ADRESS1": "CALZADA MINAS DE ARENA, ESQUINA SUR 122, COLONIA COVE, DELEGACIÓN ÁLVARO OBREGÓN", "ADDRESS2": null, "CITY": "CDMX", "HORARY": null }, "geometry": { "type": "Point", "coordinates": [ 19.3916126,-99.2181235 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "NAME": "CETRAM Indios Verdes", "TEL": "", "URL": null, "ADRESS1": "AVENIDA INSURGENTES NORTE, ESQUINA AVENIDA TICOMÁN, COLONIA RESIDENCIAL ZACATENCO, DELEGACIÓN GUSTAVO A. MADERO", "ADDRESS2": null, "CITY": "CDMX", "HORARY": null }, "geometry": { "type": "Point", "coordinates": [ 19.4935428,-99.1229654 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "NAME": "CETRAM Tasqueña", "TEL": "", "URL": null, "ADRESS1": "ENTRE LA AVENIDA MIGUEL ÁNGEL DE QUEVEDO, CANAL DE MIRAMONTES Y CALLE CERRO DE JESÚS, COLONIA CAMPESTRE CHURUBUSCO, DELEGACIÓN COYOACÁN", "ADDRESS2": null, "CITY": "CDMX", "HORARY": null }, "geometry": { "type": "Point", "coordinates": [ 19.3516171,-99.1490773 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "NAME": "CETRAM Universidad", "TEL": "", "URL": null, "ADRESS1": "AVENIDA ANTONIO DELFÍN MADRIGAL, ENTRE AVENIDA ENRÍQUEZ UREÑA, EJE 10 SUR Y AVENIDA AZTECA, COLONIA PEDREGAL DE SANTO DOMINGO, DELEGACIÓN COYOACÁN", "ADDRESS2": null, "CITY": "CDMX", "HORARY": null }, "geometry": { "type": "Point", "coordinates": [ 19.3236525,-99.1758585 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "NAME": "CETRAM Santa Martha", "TEL": "", "URL": "", "ADRESS1": "DISTRIBUIDORA SANTA MARTHA, CARRETERA LIBRE MÉXICO-PUEBLA, COLONIA SANTA MARTHA ACATITLA, DELEGACIÓN IZTAPALAPA", "ADDRESS2": null, "CITY": "CDMX", "HORARY": null }, "geometry": { "type": "Point", "coordinates": [ 19.3602482,-98.9976096 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "NAME": "CETRAM Tláhuac", "TEL": "", "URL": "", "ADRESS1": "AV.SAN RAFAEL ATLIXCO, CERCA DE AV. TLÁUAC, COL. SANTA CECILIA, DELEGACIÓN TLÁHUAC", "ADDRESS2": null, "CITY": "CDMX", "HORARY": null }, "geometry": { "type": "Point", "coordinates": [ 19.2863702,-99.016825 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "NAME": "CETRAM Blvd. Puerto Aéreo", "TEL": "", "URL": "", "ADRESS1": "BOULEVARD PUERTO ÁEREO ESQUINA CALZADA IGNACIO ZARAGOZA, ENTRE LAS COLONIAS SANTA CRUZ AVIACIÓN Y VALENTÍN GÓMEZ FARÍAS, DELEGACIÓN VENUSTIANO CARRANZA", "ADDRESS2": null, "CITY": "CDMX", "HORARY": null }, "geometry": { "type": "Point", "coordinates": [ 19.4192581,-99.0984563 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "NAME": "CETRAM Xochimilco", "TEL": "", "URL": "", "ADRESS1": "ENTRE PROLONGACIÓN DIVISIÓN DEL NORTE ENTRE AVENIDA 20 DE NOVIEMBRE Y ARROYO SAN MARCOS, BARRIO SAN MARCOS, DELEGACIÓN XOCHIMILCO", "ADDRESS2": null, "CITY": "CDMX", "HORARY": null }, "geometry": { "type": "Point", "coordinates": [ 19.2592641,-99.1096253 ] } }
+
+]
+}
